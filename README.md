@@ -1,5 +1,3 @@
-
-
 Array Comparison Program (C#)
 📌 Description
 
